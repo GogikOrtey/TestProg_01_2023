@@ -1,0 +1,14 @@
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\bin\Debug\netcoreapp3.1\TestProg_01_2023.exe
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\bin\Debug\netcoreapp3.1\TestProg_01_2023.deps.json
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\bin\Debug\netcoreapp3.1\TestProg_01_2023.runtimeconfig.json
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\bin\Debug\netcoreapp3.1\TestProg_01_2023.runtimeconfig.dev.json
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\bin\Debug\netcoreapp3.1\TestProg_01_2023.dll
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\bin\Debug\netcoreapp3.1\TestProg_01_2023.pdb
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.csproj.AssemblyReference.cache
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.AssemblyInfoInputs.cache
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.AssemblyInfo.cs
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.dll
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.pdb
+D:\Рабочий стол\TestProg_01_2023\TestProg_01_2023\TestProg_01_2023\obj\Debug\netcoreapp3.1\TestProg_01_2023.genruntimeconfig.cache

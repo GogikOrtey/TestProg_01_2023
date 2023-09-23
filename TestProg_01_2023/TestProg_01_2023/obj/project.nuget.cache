@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnyzkgWDpYWwB2qwB2yMi0dE8roogo5C4TqPsTPEBohgbIp5xQqtEMV3X5oJoDmFjRSIcR0MuL2pwNgFajWlrg==",
+  "success": true,
+  "projectFilePath": "D:\\Рабочий стол\\TestProg_01_2023\\TestProg_01_2023\\TestProg_01_2023\\TestProg_01_2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
